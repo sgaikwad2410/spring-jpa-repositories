@@ -1,4 +1,4 @@
-package com.springprojects.springjparepositories;
+package com.springprojects.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
